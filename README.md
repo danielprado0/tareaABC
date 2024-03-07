@@ -11,14 +11,14 @@ TareaABC es un proyecto desarrollado en Python que utiliza una base de datos Pos
 
 1. Clona este repositorio en tu máquina local:
 
-   `bash
-   `git clone https://github.com/danielprado0/tareaABC.git
+   bash
+   `git clone https://github.com/danielprado0/tareaABC.git`
 
 2. Instala las dependencias necesarias:
 
-`bash
-`Copy code
-`pip install -r requirements.txt
+bash
+Copy code
+`pip install -r requirements.txt`
 
 
 3. Configuración de la Base de Datos
@@ -30,7 +30,7 @@ TareaABC es un proyecto desarrollado en Python que utiliza una base de datos Pos
 4. Contribuir
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-Haz un fork del repositorio (https://github.com/tu_usuario/tareaABC/fork)
+Haz un fork del repositorio (https://github.com/danielprado0/tareaABC/fork)
 Crea una rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad)
 Realiza tus cambios y haz commit (git commit -am 'Agrega una nueva funcionalidad')
 Haz push a la rama (git push origin feature/nueva-funcionalidad)
@@ -39,3 +39,4 @@ Créditos
 Este proyecto fue desarrollado por Norman López Prado - 1490-07-6356.
 
 Licencia
+GNU GENERAL PUBLIC LICENSE
